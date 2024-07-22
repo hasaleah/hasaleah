@@ -1,5 +1,5 @@
 # Hey! I'm Hassaleah
-###Im learing how to code
+### Im learing how to code
 
 <!--
 **hasaleah/hasaleah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
