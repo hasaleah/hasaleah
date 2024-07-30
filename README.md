@@ -1,14 +1,13 @@
+<img src="3d-glassy-composition.png" alt="Descripción de la imagen" align="right" width="360">
+
 # Hey! I'm Hassaleah
 <div>
-  <img src="3d-glassy-composition.png" alt="Descripción de la imagen" align="right" width="360">
   <p align="left">I'm a Graphic Designer from sunny El Salvador, i have a creative soul, trying to bring ideas to life and coordinate projects from start to finish.
     <br>Besides design, I've also dipped into programming, especially loving Front-End development✨</p>
 </div>
 
-
 <h4>👨‍💻 You can see some of my projects at https://hasaleah.github.io/portfolio/ <br></h4>
 <h4>✉️ Connect with me on: www.linkedin.com/in/hassaleah</h4><br>
-
 
 ## Languages and Tools <br>
  <div align="left">
