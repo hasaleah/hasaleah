@@ -7,7 +7,7 @@
 
 
 <h4>👨‍💻 You can see some of my projects at https://hasaleah.github.io/portfolio/ <br></h4>
-<h4>✉️ Connect with me on: www.linkedin.com/in/hassaleah</h4>
+<h4>✉️ Connect with me on: www.linkedin.com/in/hassaleah</h4><br>
 
 
 ## Languages and Tools <br>
