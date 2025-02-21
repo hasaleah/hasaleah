@@ -6,7 +6,7 @@
     <br>Besides design, I've also dipped into programming, especially loving Front-End development✨</p>
 </div>
 
-<h4>👨‍💻 You can see some of my projects at : <br></h4>
+<!--<h4>👨‍💻 You can see some of my projects at : <br></h4>-->
 <h4>✉️ Connect with me on: www.linkedin.com/in/hassaleah</h4><br>
 
 ## Languages and Tools <br>
